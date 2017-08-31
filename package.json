@@ -1,0 +1,12 @@
+{
+  "name": "containerCalc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "stormslowly@gmail.com <stormslowly@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/babylon": "^6.16.2",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2"
+  }
+}
