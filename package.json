@@ -5,7 +5,7 @@
   "author": "stormslowly@gmail.com <stormslowly@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@types/babylon": "^6.16.2",
+    "@types/babylonjs": "^2.4.1",
     "ts-node": "^3.3.0",
     "typescript": "^2.4.2"
   }
